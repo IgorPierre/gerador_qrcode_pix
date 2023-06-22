@@ -15,15 +15,15 @@ Trata-se de um aplicativo desenvolvido com React Native que tem como objetivo ax
 ## :star: Tela principal da aplicação
 
 <p align="center">
-  <img src="/src/images/homeScreen.jpeg" alt="imagem da aplicação" />
+  <img src="/src/images/homeScreen.jpeg" alt="imagem da aplicação" width="400" />
 </p>
 
 <p align="center">
-  <img src="/src/images/valueScreen.jpeg" alt="imagem da aplicação" />
+  <img src="/src/images/valueScreen.jpeg" alt="imagem da aplicação" width="400"/>
 </p>
 
 <p align="center">
-  <img src="/src/images/qrcodeScreen.jpeg" alt="imagem da aplicação" />
+  <img src="/src/images/qrcodeScreen.jpeg" alt="imagem da aplicação" width="400"/>
 </p>
 
 <br>
